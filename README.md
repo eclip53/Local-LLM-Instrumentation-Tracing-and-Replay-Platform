@@ -32,23 +32,23 @@ Inspired by `btop` / `lazygit`; built with ncurses.
 
 ## Features
 
-| Feature | Status |
+| Feature |
 |---|---|
-| 5-panel interactive TUI | ✅ |
-| Vim-style `j/k` navigation | ✅ |
-| `Tab` to cycle panel focus | ✅ |
-| Model topology tree (expand/collapse with Space) | ✅ |
-| Live packet stream with per-layer latency | ✅ |
-| Causal attention matrix heatmap | ✅ |
-| Multi-head navigation (`H`/`L`) | ✅ |
-| Attention viewport panning (`h`/`j`/`k`/`l`) | ✅ |
-| Contrast adjustment (`+`/`-`) | ✅ |
-| Runtime metrics (shape, dtype, sparsity, latency) | ✅ |
-| Numerical anomaly ledger (outlier/OOM detection) | ✅ |
-| Fixed-size ring buffer (no RAM blowup) | ✅ |
-| Non-invasive hook API for real llama.cpp | ✅ |
-| Simulator for offline demo/testing | ✅ |
-| Terminal resize handling | ✅ |
+| 5-panel interactive TUI |
+| Vim-style `j/k` navigation |
+| `Tab` to cycle panel focus | 
+| Model topology tree (expand/collapse with Space) |
+| Live packet stream with per-layer latency |
+| Causal attention matrix heatmap |
+| Multi-head navigation (`H`/`L`) |
+| Attention viewport panning (`h`/`j`/`k`/`l`) |
+| Contrast adjustment (`+`/`-`) | 
+| Runtime metrics (shape, dtype, sparsity, latency) | 
+| Numerical anomaly ledger (outlier/OOM detection) | 
+| Fixed-size ring buffer (no RAM blowup) | 
+| Non-invasive hook API for real llama.cpp |
+| Simulator for offline demo/testing | 
+| Terminal resize handling | 
 
 ---
 
